@@ -1,0 +1,25 @@
+---
+title: "Bhavik Singhal"
+image: "IMG_5280.JPG"
+links:
+  - label: Email
+    url: "singhal.bhavik30@gmail.com"
+  - label: GitHub
+    url: "https://github.com/singhalbhavik"
+output:
+  postcards::jolla
+---
+
+### Bio
+
+I am a Junior at the University of Texas at Austin, originally from the Bay
+Area. My hobbies include hiking, basketball, and tennis. 
+
+### My favorite TV Shows
+
+- Severance
+- Breaking Bad
+- You
+
+`r Sys.time()`
+
